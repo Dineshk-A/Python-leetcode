@@ -19,15 +19,6 @@ result = Solution.searchInsert(nums,target)
 print(result)
 
 
-
-
-
-
-
-
-
-
-
 # we can 0(n) , we can do better since its sorted array , logn 
 # using standard algorithm , Binary search . not gonna search nin every index of valye 
 # left pointer , right pointer , middle pointer /
